@@ -1,0 +1,15 @@
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\bin\Debug\net6.0\Tryparse-Loop.exe
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\bin\Debug\net6.0\Tryparse-Loop.deps.json
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\bin\Debug\net6.0\Tryparse-Loop.runtimeconfig.json
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\bin\Debug\net6.0\Tryparse-Loop.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\bin\Debug\net6.0\Tryparse-Loop.pdb
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.csproj.AssemblyReference.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.AssemblyInfoInputs.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.AssemblyInfo.cs
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.csproj.CoreCompileInputs.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\refint\Tryparse-Loop.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.pdb
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\Tryparse-Loop.genruntimeconfig.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\Tryparse-Loop\Tryparse-Loop\obj\Debug\net6.0\ref\Tryparse-Loop.dll
